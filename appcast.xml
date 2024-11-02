@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Last Window Quits</title>
+        <item>
+            <title>1.1.2</title>
+            <link>https://lawand.io</link>
+            <pubDate>Sun, 03 Nov 2024 00:19:54 +0300</pubDate>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://lawand-dot-io.github.io/last-window-quits/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://lawand.io/last-window-quits/release-notes/</sparkle:fullReleaseNotesLink>
+            <enclosure url="https://lawand.io/wp-content/uploads/2024/11/last-window-quits-1.1.2.zip" length="11517594" type="application/octet-stream" sparkle:edSignature="tpLQe0CZRbFv9GJYRTt8LEkONGjVhumvA9s2nGIM7xC/uak3oZOAv7WZ+hhJ+RJcgZDW+MnvNs9Hob8kAJDkAQ=="/>
+        </item>
+    </channel>
+</rss>
