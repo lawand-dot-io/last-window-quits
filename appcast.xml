@@ -3,6 +3,17 @@
     <channel>
         <title>Last Window Quits</title>
         <item>
+            <title>1.1.4</title>
+            <link>https://lawand.io</link>
+            <pubDate>Tue, 03 Dec 2024 21:30:30 +0300</pubDate>
+            <sparkle:version>1.1.4</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://lawand-dot-io.github.io/last-window-quits/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://lawand.io/last-window-quits/release-notes/</sparkle:fullReleaseNotesLink>
+            <enclosure url="https://lawand.io/wp-content/uploads/2024/12/last-window-quits-1.1.4.zip" length="11524670" type="application/octet-stream" sparkle:edSignature="3opxPJ3f3/r7u5awN21L+7cZMvoBSlCbW1mCqg1onhcuwoclJy15kYYRNDTvu4zlr9AQ17fzlIK1Jroym2fgDg=="/>
+        </item>
+        <item>
             <title>1.1.3</title>
             <link>https://lawand.io</link>
             <pubDate>Sun, 10 Nov 2024 06:54:04 +0300</pubDate>
