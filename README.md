@@ -5,3 +5,5 @@
 Public repository for feature requests and bug reports.
 
 [https://lawand.io/last-window-quits](https://lawand.io/last-window-quits)
+
+[https://x.com/lawand_dot_io](https://x.com/lawand_dot_io)
